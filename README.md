@@ -1,5 +1,6 @@
 # Hello_World
-hello world code
-print(
-"Hola mundo!"
-)
+Hola mundo!
+
+# sobre mi :D
+----------------------------------
+Soy Giorgio Santi y soy de Uruguay!
