@@ -6,4 +6,4 @@ Primero nos planteamos el problema, despues, investigamos y vimos diferentes rec
 En general todo funciono bien, pero donde mas tuvimos complicaciones fue a la hora de escojer un prototipo del paracaídas que cumpliera ambos objetivos, ya que a la hora de probarlos, solo cumplían uno de los dos objetivos. Si bien hicimos muchos prototipos, iterariamos mas en la construccion de estos, y hariamos mas cambios para identificar las variables que ayudan a cumplir los objetivos.
 
 
-###Leandro Casaretto y Giorgio Santi
+### Leandro Casaretto y Giorgio Santi
